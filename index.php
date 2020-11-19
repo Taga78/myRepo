@@ -16,6 +16,7 @@
         <title>myRepo Git</title>
     </head>
     <body>
+    <h1>je suis un bg</h1>
         <nav class="navbar navbar-expand-sm bg-light">
             <!-- Links -->
             <ul class="navbar-nav">
